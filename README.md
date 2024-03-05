@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pragati261999" alt="pragati261999" /></a> </p>
 
-- 🌱 I’m currently learning **Laravel, Node js**
+- 🌱 I’m currently Working **Laravel, Node js**
 
 - 💬 Ask me about **Vue.js , HTML, CSS**
   
