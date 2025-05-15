@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently Working **Laravel, Node js**
 
-- 💬 Ask me about **Vue.js , HTML, CSS**
+- 💬 Ask me about **Vue.js , React.js , HTML, CSS**
   
 
 - 📫 How to reach me **pragati1999tiwari@gmail.com**
